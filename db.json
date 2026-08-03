@@ -1,0 +1,458 @@
+{
+  "menus": [
+    {
+      "id": "1",
+      "title": "صفحه اصلی",
+      "path": "/"
+    },
+    {
+      "id": "2",
+      "title": "فروشگاه",
+      "path": "/shop",
+      "submenus": [
+        {
+          "id": 11,
+          "title": "قهوه ویژه",
+          "path": "/shop/pro"
+        },
+        {
+          "id": 12,
+          "title": "ویژه در سطح جهانی",
+          "path": "/shop/glob"
+        },
+        {
+          "id": 13,
+          "title": "قهوه درجه یک",
+          "path": "/shop/profetional"
+        },
+        {
+          "id": 14,
+          "title": "ترکیب تجاری",
+          "path": "/shop/tegar"
+        },
+        {
+          "id": 15,
+          "title": "کپسول قهوه",
+          "path": "/shop/pils"
+        },
+        {
+          "id": 16,
+          "title": "قهوه زینو برزیلی",
+          "path": "/shop/brezil"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "دیکشنری",
+      "path": "/dic"
+    },
+    {
+      "id": "4",
+      "title": "بلاگ",
+      "path": "/blog"
+    },
+    {
+      "id": "5",
+      "title": "درباره ما",
+      "path": "/aboutUs"
+    },
+    {
+      "id": "6",
+      "title": "تماس با ما",
+      "path": "/contactUs"
+    }
+  ],
+  "panelmenus": [
+    {
+      "id": "1",
+      "title": " داشبورد",
+      "path": "/panel",
+      "icon": "HiOutlineHome"
+    },
+    {
+      "id": "2",
+      "title": " محصولات",
+      "path": "/panel/products",
+      "icon": "HiOutlineShoppingCart"
+    },
+    {
+      "id": "3",
+      "title": " کاربران",
+      "path": "/panel/users",
+      "icon": "HiOutlineUsers"
+    },
+    {
+      "id": "4",
+      "title": " تیکت ها",
+      "path": "/panel/tickets",
+      "icon": "HiOutlineChatBubbleLeftRight"
+    },
+    {
+      "id": "5",
+      "title": " کامنت ها",
+      "path": "/panel/comments",
+      "icon": "BiCommentDetail"
+    }
+  ],
+  "PopularItems": [
+    {
+      "id": "1",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 175000,
+      "priceCurrency": "تومان",
+      "image": "../public/CoffeeShop-Files/products/p5.png",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p6.png",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p7.png",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p8.png",
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p5.png",
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p6.png",
+      "rating": 4
+    },
+    {
+      "id": "7",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p7.png",
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p8.png",
+      "rating": 4
+    }
+  ],
+  "readings": [
+    {
+      "id": "1",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "date": "21",
+      "dateLine2": "مرداد 1404",
+      "image": "../public/CoffeeShop-Files/blog/blog-1.png",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "date": "21",
+      "dateLine2": "مرداد 1404",
+      "image": "/CoffeeShop-Files/blog/blog-2.png",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "date": "21",
+      "dateLine2": "مرداد 1404",
+      "image": "/CoffeeShop-Files/blog/blog-3.png",
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "date": "21",
+      "dateLine2": "مرداد 1404",
+      "image": "/CoffeeShop-Files/blog/blog-4.png",
+      "rating": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "قهوه ترک اصل بن مانو ",
+      "nameLine2": "مقدار۲۵۰ گرم",
+      "price": 80000,
+      "priceCurrency": "تومان",
+      "image": "./../../CoffeeShop-Files/products/p1.png",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "قهوه عربیکا بن مانو ",
+      "nameLine2": "مقدار۲۵۰ گرم",
+      "price": 110000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "3",
+      "name": "قهوه روبوستا بن مانو ",
+      "nameLine2": "مقدار۲۵۰ گزم",
+      "price": 150000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p3.png",
+      "rating": 4,
+      "عکس": ""
+    },
+    {
+      "id": "4",
+      "name": "قهوه میکس بن مانو ",
+      "nameLine2": " مقدار۲۵۰ گرم",
+      "price": 120000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p4.png",
+      "rating": 4
+    },
+    {
+      "id": "5",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 100000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "6",
+      "name": "قهوه ترک بن مانو مقدار۲۵۰ گرم",
+      "nameLine2": "خط دوم اسم طولانی",
+      "price": 80000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p3.png",
+      "rating": 4
+    },
+    {
+      "id": "7",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 100000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p1.png",
+      "rating": 4
+    },
+    {
+      "id": "8",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 110000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p4.png",
+      "rating": 4
+    },
+    {
+      "id": "9",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 130000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "10",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 150000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p4.png",
+      "rating": 4
+    },
+    {
+      "id": "12",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 80000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p3.png",
+      "rating": 4
+    },
+    {
+      "id": "13",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 100000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "14",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 120000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "15",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 150000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    },
+    {
+      "id": "16",
+      "name": "قهوه اسپرسو",
+      "nameLine2": "250 گرم",
+      "price": 220000,
+      "priceCurrency": "تومان",
+      "image": "/CoffeeShop-Files/products/p2.png",
+      "rating": 4
+    }
+  ],
+  "reading": [
+    {
+      "id": "1",
+      "name": " طرز تهیه قهوه دمی با دستگاه اروپرس",
+      "numberdate": "21",
+      "month": "مرداد",
+      "year": "1402",
+      "image": "./../../CoffeeShop-Files/blogs/blog-1.png"
+    },
+    {
+      "id": "2",
+      "name": "یک نوشیدنی هیجان انگیز و پر کالری برای شروع روز ",
+      "numberdate": "21",
+      "month": "مرداد",
+      "year": "1402",
+      "image": "./../../CoffeeShop-Files/blogs/blog-2.png"
+    },
+    {
+      "id": "3",
+      "name": " طرز تهیه یک فنجان کافه زینو برزیلی",
+      "numberdate": "21",
+      "month": "مرداد",
+      "year": "1402",
+      "image": "./../../CoffeeShop-Files/blogs/blog-3.png"
+    },
+    {
+      "id": "4",
+      "name": " طرز تهیه قهوه دالونگا مناسب روز های کرونایی",
+      "numberdate": "21",
+      "month": "مرداد",
+      "year": "1402",
+      "image": "./../../CoffeeShop-Files/blogs/blog-4.png"
+    }
+  ],
+  "users": [
+    {
+      "name": "مهدی",
+      "email": "erfanbahrami12@gmail.com",
+      "password": "111111",
+      "token": "1c2a2551-a7e4-4396-b320-262e5edfb14f",
+      "id": "Gng15NLMZeM"
+    },
+    {
+      "name": "عرفان",
+      "email": "erfanbahrami12@gmail.com",
+      "password": "222222",
+      "token": "18b54046-64b8-4846-bf48-d3fb9c656a4f",
+      "id": "6nzNkHpDoCU"
+    },
+    {
+      "name": "عرفان",
+      "email": "erfanbahrami12@gmail.com",
+      "password": "111111",
+      "token": "021b2d46-c981-4ddf-bffc-c4b8009587a3",
+      "id": "7zggE2oOyXc"
+    }
+  ],
+  "comments": [
+    {
+      "name": "عرفان",
+      "email": "erfanbahrami12@gmail.com",
+      "comment": "عالی بود",
+      "createdAt": "2026-08-02T08:57:28.460Z",
+      "id": "btKvy4N3Goo"
+    },
+    {
+      "name": "مهدی",
+      "email": "erfanbahrami12@gmail.com",
+      "comment": "بد نبود",
+      "createdAt": "2026-08-02T08:57:41.971Z",
+      "id": "6fp9nmK5fx0"
+    }
+  ],
+  "ticket": [
+    {
+      "ticket": "خیلی خوب بود",
+      "id": "xAiwRads52M"
+    },
+    {
+      "ticket": "بالا بود",
+      "id": "bUM5r605OdU"
+    }
+  ],
+  "panel": [
+    {
+      "id": "1",
+      "title": "تعداد محصولات",
+      "value": "productsLength",
+      "icon": "BiShoppingBag"
+    },
+    {
+      "id": "2",
+      "title": "تعداد کاربران",
+      "value": "usersLength",
+      "icon": "BiShoppingBag"
+    },
+    {
+      "id": "3",
+      "title": "تعداد تیکت ها",
+      "value": "ticketsLength",
+      "icon": "BiShoppingBag"
+    },
+    {
+      "id": "4",
+      "title": "تعداد مدیران",
+      "value": "adminsLength",
+      "icon": "BiShoppingBag"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
