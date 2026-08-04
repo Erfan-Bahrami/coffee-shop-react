@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import { useForm } from "react-hook-form";
-import api from "./../../../Api/api";
+import api from "./../../../api/api";
 import {
   QueryClient,
   queryOptions,

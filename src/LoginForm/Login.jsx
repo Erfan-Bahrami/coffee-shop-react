@@ -1,5 +1,5 @@
 import React from "react";
-import LoginForm from "./Loginform";
+import LoginForm from "./LoginForm";
 import { useNavigate } from "react-router";
 import usefetch from "../hooks/usefetch";
 import useinpute from "../hooks/useinpute";

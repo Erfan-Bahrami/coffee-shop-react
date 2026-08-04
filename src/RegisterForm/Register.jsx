@@ -1,7 +1,7 @@
 import React from "react";
 import useinpute from "../hooks/useinpute";
 import RegisterForm from "./RegisterForm";
-import api from "./../Api/api";
+import api from "./../api/api";
 import { useForm } from "react-hook-form";
 import { useMutation } from "@tanstack/react-query";
 import { useNavigate } from "react-router";
