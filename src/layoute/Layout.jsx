@@ -9,13 +9,25 @@ import products from "../Data/ItemsData";
 import useLocalStorage from "../hooks/useLocalStorage";
 import usefetch from "./../hooks/usefetch";
 import MobileMenu from "../Camponents/Main/MobileMenu";
+import { useQuery } from "@tanstack/react-query";
+import api from "../api/api";
 const Layout = () => {
-  const { data: products } = usefetch("http://localhost:3000/products");
+  // const { data: products } = usefetch("http://localhost:3000/products");
   const [cart, setcart] = useLocalStorage("cart", []);
   const [love, setlove] = useLocalStorage("love", []);
   const totalPrice = cart.reduce((sum, item) => sum + item.price, 0);
   const [searchValue, setsearchvalue] = useState("");
   const [searchproduct, setsearchproduct] = useState([]);
+
+  const fetproducts = async () => {
+    const res = await api.get("/products");
+    return res.data;
+  };
+
+  const { data: products } = useQuery({
+    queryKey: ["products"],
+    queryFn: fetproducts,
+  });
 
   useEffect(() => {
     if (searchValue.trim() === "") {
