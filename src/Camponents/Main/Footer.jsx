@@ -12,10 +12,10 @@ const Footer = () => {
             <div className="flex gap-x-4">
               <img
                 className="w-[57px] h-[57px]"
-                src="../public/CoffeeShop-Files/svgs/logo.svg"
+                src="/CoffeeShop-Files/svgs/logo.svg"
                 alt=""
               />
-              <img src="../public/CoffeeShop-Files/svgs/logo-type.svg" alt="" />
+              <img src="/CoffeeShop-Files/svgs/logo-type.svg" alt="" />
             </div>
             <div className="font-Dana mt-[35px]  leading-[40px] ">
               <span className="text-gray-300">
@@ -133,10 +133,7 @@ const Footer = () => {
 
               <div className="flex items-center w-[192px] bg-orange-300 rounded-[10px] h-[40px] p-4 gap-x-[8px]">
                 <div className="w-[25px] h-[25px] flex items-center">
-                  <img
-                    src="../public/CoffeeShop-Files/svgs/telegram.svg"
-                    alt=""
-                  />
+                  <img src="/CoffeeShop-Files/svgs/telegram.svg" alt="" />
                 </div>
                 <div className="pt-[6px]">
                   <span>@golden_coffee</span>

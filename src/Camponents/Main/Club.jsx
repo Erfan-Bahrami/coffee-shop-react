@@ -5,7 +5,7 @@ const Club = () => {
     <div className=" flex w-[1152px] h-[144px] mr-[240px] mt-[825px] rounded-[16px]  bg-emerald-700 ">
       <div className="flex ">
         <div className="flex items-center pr-[48px]  ">
-          <img src="../public/CoffeeShop-Files/club/diamond.png" alt="" />
+          <img src="/CoffeeShop-Files/club/diamond.png" alt="" />
           <div className="pr-[32px]">
             <span className="font-MorabbaBold text-[35px] text-white">
               کافی کلاب
@@ -21,7 +21,7 @@ const Club = () => {
         <div className="  w-[96px] h-[96px] pt-[18px]  bg-white rounded-[16px] ">
           <img
             className="pr-[27px] mb-2"
-            src="../public/CoffeeShop-Files/club/Discovery.svg"
+            src="/CoffeeShop-Files/club/Discovery.svg"
             alt=""
           />
           <span className="font-Dana text-[14px] pr-[15px] text-emerald-500 ">
@@ -31,7 +31,7 @@ const Club = () => {
         <div className=" w-[96px] h-[96px] pt-[18px] bg-white rounded-[16px] ">
           <img
             className="pr-[27px] mb-2"
-            src="../public/CoffeeShop-Files/club/Activity.svg"
+            src="/CoffeeShop-Files/club/Activity.svg"
             alt=""
           />
           <span className="font-Dana text-[14px] pr-[15px] text-emerald-500 ">
@@ -41,7 +41,7 @@ const Club = () => {
         <div className="w-[96px] h-[96px] pt-[18px] bg-white rounded-[16px] ">
           <img
             className="pr-[27px] mb-2"
-            src="../public/CoffeeShop-Files/club/Ticket-Star.svg"
+            src="/CoffeeShop-Files/club/Ticket-Star.svg"
             alt=""
           />
           <span className="font-Dana text-[14px] pr-[25px] text-emerald-500 ">

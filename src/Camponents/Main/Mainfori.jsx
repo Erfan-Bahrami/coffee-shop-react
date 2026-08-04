@@ -6,7 +6,7 @@ const Mainfori = () => {
       <div className="relative  w-[560px]">
         <img
           className="rounded-2xl w-[568px] "
-          src="../public/CoffeeShop-Files/categories/category-right.jpg"
+          src="/CoffeeShop-Files/categories/category-right.jpg"
           alt=""
         />
         <div className="absolute inset-0 bg-black bg-opacity-30 rounded-2xl"></div>
@@ -22,7 +22,7 @@ const Mainfori = () => {
       <div className="relative w-[560px] -mr-[132px]">
         <img
           className="rounded-2xl w-[568px] "
-          src="../public/CoffeeShop-Files/categories/category-left.jpg"
+          src="/CoffeeShop-Files/categories/category-left.jpg"
           alt=""
         />
         <div className="absolute inset-0 bg-black bg-opacity-30 rounded-2xl"></div>

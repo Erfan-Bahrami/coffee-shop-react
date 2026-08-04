@@ -102,7 +102,7 @@
       "nameLine2": "خط دوم اسم طولانی",
       "price": 175000,
       "priceCurrency": "تومان",
-      "image": "../public/CoffeeShop-Files/products/p5.png",
+      "image": "/CoffeeShop-Files/products/p5.png",
       "rating": 5
     },
     {
@@ -176,7 +176,7 @@
       "nameLine2": "خط دوم اسم طولانی",
       "date": "21",
       "dateLine2": "مرداد 1404",
-      "image": "../public/CoffeeShop-Files/blog/blog-1.png",
+      "image": "/CoffeeShop-Files/blog/blog-1.png",
       "rating": 5
     },
     {

@@ -8,7 +8,7 @@ const Contact = () => {
         <div>
           <img
             className="w-[300px] h-[300px]"
-            src="../public/CoffeeShop-Files/contact.png"
+            src="/CoffeeShop-Files/contact.png"
             alt=""
           />
         </div>

@@ -5,10 +5,7 @@ const Icons = () => {
     <div>
       <div className="flex mr-[240px] mt-[144px] items-center gap-x-[96px]">
         <div className="flex items-center">
-          <img
-            src="../public/CoffeeShop-Files/svgs/services/support.svg"
-            alt=""
-          />
+          <img src="/CoffeeShop-Files/svgs/services/support.svg" alt="" />
           <div className="dark:text-white mr-[16px]">
             <span className="font-DanaBold text-[18px]">
               پشتیبانی شبانه روزی
@@ -24,7 +21,7 @@ const Icons = () => {
 
         <div className="flex items-center">
           <img
-            src="../public/CoffeeShop-Files/svgs/services/express-delivery.svg"
+            src="/CoffeeShop-Files/svgs/services/express-delivery.svg"
             alt=""
           />
           <div className="dark:text-white mr-[16px]">
@@ -41,10 +38,7 @@ const Icons = () => {
         </div>
 
         <div className="flex items-center">
-          <img
-            src="../public/CoffeeShop-Files/svgs/services/pitcher.svg"
-            alt=""
-          />
+          <img src="/CoffeeShop-Files/svgs/services/pitcher.svg" alt="" />
           <div className="dark:text-white mr-[16px]">
             <span className="font-DanaBold text-[18px]">رست تخصصی</span>
             <br />
@@ -56,10 +50,7 @@ const Icons = () => {
           </div>
         </div>
         <div className="flex items-center">
-          <img
-            src="../public/CoffeeShop-Files/svgs/services/coffee.svg"
-            alt=""
-          />
+          <img src="/CoffeeShop-Files/svgs/services/coffee.svg" alt="" />
           <div className="dark:text-white mr-[16px]">
             <span className="font-DanaBold text-[18px]">اکسسوری قهوه</span>
             <br />

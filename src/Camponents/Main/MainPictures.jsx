@@ -4,7 +4,7 @@ const MainPictures = () => {
   return (
     <div className="flex mr-[208px] mt-[64px] gap-x-[56px]">
       <div>
-        <img src="../public/CoffeeShop-Files/categories/category1.png" alt="" />
+        <img src="/CoffeeShop-Files/categories/category1.png" alt="" />
         <div className=" pr-6 pt-[10px]">
           <span className="font-DanaBold text-[20px] text-zinc-700 dark:text-white">
             قهوه دمی اسپرسو
@@ -12,7 +12,7 @@ const MainPictures = () => {
         </div>
       </div>
       <div>
-        <img src="../public/CoffeeShop-Files/categories/category2.png" alt="" />
+        <img src="/CoffeeShop-Files/categories/category2.png" alt="" />
         <div className=" pt-[10px]">
           <span className="font-DanaBold text-[20px] text-zinc-700 dark:text-white">
             لولزم جانبی و تجهیزات
@@ -20,7 +20,7 @@ const MainPictures = () => {
         </div>
       </div>
       <div>
-        <img src="../public/CoffeeShop-Files/categories/category3.png" alt="" />
+        <img src="/CoffeeShop-Files/categories/category3.png" alt="" />
         <div className="pr-[48px] pt-[10px]">
           <span className="font-DanaBold text-[20px] text-zinc-700 dark:text-white">
             اسپرسو ساز
@@ -28,7 +28,7 @@ const MainPictures = () => {
         </div>
       </div>
       <div>
-        <img src="../public/CoffeeShop-Files/categories/category4.png" alt="" />
+        <img src="/CoffeeShop-Files/categories/category4.png" alt="" />
         <div className=" pr-[40px] pt-[10px]">
           <span className="font-DanaBold text-[20px] text-zinc-700 dark:text-white">
             پک تستر قهوه
@@ -36,7 +36,7 @@ const MainPictures = () => {
         </div>
       </div>
       <div>
-        <img src="../public/CoffeeShop-Files/categories/category5.png" alt="" />
+        <img src="/CoffeeShop-Files/categories/category5.png" alt="" />
         <div className="pr-[72px] pt-[10px]">
           <span className="font-DanaBold text-[20px] text-zinc-700 dark:text-white">
             قوه ترک
