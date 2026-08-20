@@ -171,7 +171,7 @@ GitHub:
 https://github.com/Erfan-Bahrami
 
 LinkedIn:
-https://www.linkedin.com/in/Erfan-Bahrami/
+https://www.linkedin.com/in/Erfan Bahrami/
 
 ---
 
